@@ -5,4 +5,4 @@
 Todo...
 
 
-![Addition großer Zahlen mit dem Karatsuba-Algorithmus](images/add.karastuba.png)
+![Addition großer Zahlen mit dem Karatsuba-Algorithmus](images/add.karatsuba.png)
